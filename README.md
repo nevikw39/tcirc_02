@@ -3,7 +3,7 @@
 
 ## 快速連結
 
-> **[上課簡報](https://www.icloud.com/keynote/0vZx2Np_UtnU7TVcKS5TUXp1A#tcirc37_02)**
+> **[上課簡報](https://www.icloud.com/keynote/0ChpV3VO7SlXyWNfyg2z3Qreg#tcirc37_02)**
 > [社團網站](https://tcirc.tw)
 > [社團ＯＪ](https://judge.tcirc.tw)
 > **[選幹表單](https://forms.gle/pjynhw5DMV4gEiDdA)**
