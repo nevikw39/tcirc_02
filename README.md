@@ -11,6 +11,19 @@
 
 > 特別感謝「*[星城數位科技](http://xincastle.com/)*」
 
+由於疫情關係，電腦教室鍵盤暫停使用，請同學改用螢幕小鍵盤或 Remote Mouse
+### 電腦端
+1. [下載](https://www.remotemouse.net/downloads/RemoteMouse.exe)
+2. 安裝（管理員密碼：*sova*）
+3. 查看 IP`(210.60.35.*)`
+### 手機端
+1. 安裝
+    - [Android](https://play.google.com/store/apps/details?id=com.hungrybolo.remotemouseandroid)
+    - [iOS](https://itunes.apple.com/app/id385894596?mt=8)
+2. 輸入 IP`(210.60.35.*)`
+
+請注意，「Remote Mouse」是中囯軟體喔．
+
 ## 目錄大綱
 
 0. vector 尾端修改
